@@ -424,6 +424,7 @@ ul{
 .footer-link{
     color: #777;
     font-size: 0.875rem;
+    text-decoration: none;
 }
 .footer-links-list{
     display: flex;

@@ -357,6 +357,7 @@ ri-arrow-drop-right-fill, .sec-2 span{
     flex-direction:row;
     max-width: 1280px;
     border-radius: 1.2rem;
+    background-color: rgb(255, 106, 0);
 }
 .footer{
     max-width: 1280px;
@@ -397,7 +398,7 @@ ri-arrow-drop-right-fill, .sec-2 span{
 }
 .filler-text{
     font-size: 1rem;
-    color: #777;
+    color: black;
     padding-bottom: .7rem;
 }
 .social{
@@ -411,6 +412,7 @@ ri-arrow-drop-right-fill, .sec-2 span{
     grid-gap: 5.67rem;
     padding-top: 2rem;
     list-style-type: none;
+
 }
 .footer-grid-heading
 {
@@ -422,9 +424,10 @@ ul{
     list-style-type: none;
 }
 .footer-link{
-    color: #777;
+    color: black;
     font-size: 0.875rem;
     text-decoration: none;
+
 }
 .footer-links-list{
     display: flex;

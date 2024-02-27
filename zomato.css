@@ -354,7 +354,7 @@ ri-arrow-drop-right-fill, .sec-2 span{
     margin: 0 auto;
     padding: 0 2rem;
     display: flex;
-    flex-direction: column;
+    flex-direction:row;
     max-width: 1280px;
     border-radius: 1.2rem;
 }

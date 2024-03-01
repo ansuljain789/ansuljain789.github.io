@@ -188,6 +188,10 @@ ri-arrow-drop-right-fill, .sec-2 span{
     margin-left: 90px;
     font-size: xx-large;
 }
+.collect{
+    text-decoration: none;
+    color: red;
+}
 .sec-3{
 
     display: flex;

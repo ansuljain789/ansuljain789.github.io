@@ -408,6 +408,7 @@ ri-arrow-drop-right-fill, .sec-2 span{
     width: 1.5rem;
     height: 1.5rem;
     gap: .7rem;
+    color: gray;
 }
 .filler-text{
     font-size: 1rem;
@@ -445,7 +446,7 @@ ul{
 .footer-links-list{
     display: flex;
     flex-direction: column;
-    gap: 1.2rem;
+    gap: .8rem;
 }
 .footer-grid-heading{
     margin-bottom: 1.65rem;
@@ -462,3 +463,11 @@ ul{
     text-decoration: none;
     color: white;
 }
+@media screen and (max-width: 720px) {
+   .footer-container{
+    background-color: rgb(255, 106, 0);
+   }
+  }
+  
+  
+  
